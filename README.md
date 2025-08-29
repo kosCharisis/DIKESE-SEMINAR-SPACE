@@ -37,6 +37,9 @@ Search and filter seminars
 4. Update-Database from the Package Manager Console
 
 5. Run the application
+
+
+# Enjoy! Thank for using our services!!!
    
 
 
