@@ -16,6 +16,22 @@ You can register as a User, browse the Seminars and purchase them
 
 Anyone can search from the search button
 
+## Features
+
+Maintain a database of seminars and user information
+
+Ability to perform CRUD (Create, Read, Update, Delete) operations
+
+Search and filter seminars
+
+## Installation
+
+[^1]: Clone the repository:
+      - git clone https://github.com/username/dikese-seminar-space
+      - cd dikese-seminar-space
+   
+
+
 
 
 
