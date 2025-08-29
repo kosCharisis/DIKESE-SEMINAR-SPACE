@@ -1,6 +1,6 @@
 # DIKESE-SEMINAR-SPACE
 
-DIKESE application allows users to browse the available seminars, view the description, the speakers, the auditoriums and make the purchase of their choice.
+DIKESE application allows users to browse the available seminars, view the descriptions, the speakers, the auditoriums and make the purchases of their choice.
 
 ## Instructions
 
