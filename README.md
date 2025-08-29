@@ -30,7 +30,7 @@ Search and filter seminars
       - git clone https://github.com/username/dikese-seminar-space
       - cd dikese-seminar-space
 
-2. Setup the Database: DikeseDb
+2. Setup the Database: DikeseDb using Microsoft SQL Server
 
 3. Start Visual Studio application and configure the connection string at the appsetings.json file
 
