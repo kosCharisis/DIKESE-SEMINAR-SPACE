@@ -26,7 +26,7 @@ Search and filter seminars
 
 ## Installation
 
-[^1]: Clone the repository:
+1. Clone the repository:
       - git clone https://github.com/username/dikese-seminar-space
       - cd dikese-seminar-space
    
