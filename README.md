@@ -18,7 +18,7 @@ Anyone can search from the search button
 
 ## Features
 
-Maintain a database of seminars and user information
+Maintain a database of seminars and users information
 
 Ability to perform CRUD (Create, Read, Update, Delete) operations
 
