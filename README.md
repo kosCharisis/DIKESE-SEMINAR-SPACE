@@ -32,7 +32,7 @@ Search and filter seminars
 
 2. Setup the Database: DikeseDb using Microsoft SQL Server
 
-3. Start Visual Studio application and configure the connection string at the appsetings.json file
+3. Start Visual Studio application and configure the connection string at the appsettings.json file
 
 4. Update-Database from the Package Manager Console
 
